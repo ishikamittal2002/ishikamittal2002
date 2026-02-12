@@ -31,9 +31,4 @@ I am currently pursuing B.Tech in Computer Science with a specialization in AI-M
 
 <hr>
 
-<h2>📈 Goals</h2>
 
-<p>
-My goal is to become a strong software engineer with solid fundamentals,
-capable of building reliable and scalable intelligent systems.
-</p>
