@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">Hi 👋 I'm Ishika Mittal</h1>
+
+<p align="center">
+🎓 2nd Year Computer Science (AI-ML) Student <br>
+📍 India <br>
+💡 Interested in Machine Learning, Development & Problem Solving
+</p>
+
+<hr>
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I am currently pursuing B.Tech in Computer Science with a specialization in AI-ML.
+</p>
+
+<hr>
+
+<h2>📈 Goals</h2>
+
+<p>
+My goal is to become a strong software engineer with solid fundamentals,
+capable of building reliable and scalable intelligent systems.
+</p>
