@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋 I'm Ishika Mittal</h1>
+<h1>Hi 👋 I'm Ishika Mittal</h1>
 
-<p align="center">
+<p>
 🎓 2nd Year Computer Science (AI-ML) Student <br>
 📍 India <br>
 💡 Interested in Machine Learning, Development & Problem Solving
