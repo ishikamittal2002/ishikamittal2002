@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h1>Hi 👋 I'm Ishika Mittal</h1>
-
 <p>
 🎓 2nd Year Computer Science (AI-ML) Student <br>
 📍 India <br>
