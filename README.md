@@ -31,4 +31,8 @@ I am currently pursuing B.Tech in Computer Science with a specialization in AI-M
 
 <hr>
 
+## 🛠 Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,bootstrap,git,github,nodejs,express,mongodb,mysql" />
+</p>
