@@ -4,11 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Code.+Learn.+Build.+Repeat.;Frontend+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning+something+new...)](https://git.io/typing-svg)
 
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ishikamittal&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/ishikamittal?logo=github&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/ishikamittal)
-[![GitHub Stars](https://img.shields.io/github/stars/ishikamittal?logo=github&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/ishikamittal)
 
 </div>
 
