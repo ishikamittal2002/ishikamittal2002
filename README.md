@@ -14,20 +14,7 @@
 
 <img align="right" alt="Girl Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```typescript
-const Ishika = {
-  name        : "Ishika Mittal",
-  location    : "Chhattisgarh, India 🇮🇳",
-  role        : ["Frontend Developer", "UI Enthusiast", "Problem Solver"],
-  passion     : ["Clean UI", "Open Source", "Turning ideas into apps"],
-  education   : "B.Tech CSE 💻",
-  currentMood : "Turning ☕ into beautiful interfaces since 2022",
 
-  askMeAbout        : ["React", "Web Dev", "APIs", "DSA", "AI Tools"],
-  currentlyLearning : ["TypeScript", "Next.js", "System Design"],
-  funFact           : "My code works and I have no idea why 😂",
-};
-```
 
 - 🔭 Currently building **[Your Project Name]**
 - 🌱 Learning **TypeScript · Next.js · System Design**
