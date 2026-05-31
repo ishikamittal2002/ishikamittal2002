@@ -1,17 +1,14 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Hey%20There!%20I'm%20Ishika Mittal%20👋&fontSize=40&fontColor=00ff88&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18&descColor=8b949e&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Hey%20There!%20I'm%20Ishika%20Mittal%20👋&fontSize=40&fontColor=00ff88&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18&descColor=8b949e&animation=twinkling" />
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Code.+Learn.+Build.+Repeat.;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning+something+new...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Code.+Learn.+Build.+Repeat.;Frontend+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning+something+new...)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?logo=github&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/yourusername)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername?logo=github&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=ishikamittal&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/ishikamittal?logo=github&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/ishikamittal)
+[![GitHub Stars](https://img.shields.io/github/stars/ishikamittal?logo=github&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/ishikamittal)
 
 </div>
 
@@ -19,23 +16,22 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const developer = {
-  name:              "Ishika Mittal",
-  location:          "Chhattisgarh, India 🇮🇳",
-  role:              ["Frontend Developer", "UI Enthusiast", "Problem Solver"],
-  passion:           ["Clean UI", "Open Source", "Turning ideas into apps"],
-  education:         "B.Tech CSE 💻",
-  currentMood:       "Turning ☕ into beautiful interfaces since 2022",
+<img align="right" alt="Girl Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-  askMeAbout:        ["React", "Web Dev", "APIs", "DSA", "AI Tools"],
-  currentlyLearning: ["TypeScript", "Next.js", "System Design"],
-  funFact:           "My code works and I have no idea why sometimes 😂",
-  lifePhilosophy:    "Code. Learn. Build. Repeat. 🚀",
+```typescript
+const Ishika = {
+  name        : "Ishika Mittal",
+  location    : "Chhattisgarh, India 🇮🇳",
+  role        : ["Frontend Developer", "UI Enthusiast", "Problem Solver"],
+  passion     : ["Clean UI", "Open Source", "Turning ideas into apps"],
+  education   : "B.Tech CSE 💻",
+  currentMood : "Turning ☕ into beautiful interfaces since 2022",
+
+  askMeAbout        : ["React", "Web Dev", "APIs", "DSA", "AI Tools"],
+  currentlyLearning : ["TypeScript", "Next.js", "System Design"],
+  funFact           : "My code works and I have no idea why 😂",
 };
 ```
-
-<img align="right" alt="Girl Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🔭 Currently building **[Your Project Name]**
 - 🌱 Learning **TypeScript · Next.js · System Design**
@@ -61,8 +57,6 @@ const developer = {
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -71,32 +65,17 @@ const developer = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-### 🚀 Frameworks & Libraries
-
-<div align="center">
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-</div>
-
-### 🗄️ Databases & Cloud
-
-<div align="center">
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -107,13 +86,6 @@ const developer = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-</div>
-
-### 🧰 Tools & Platforms
-
-<div align="center">
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -122,9 +94,9 @@ const developer = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
@@ -135,25 +107,12 @@ const developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishikamittal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ishikamittal)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishikamittal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ishikamittal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=About.me&logoColor=black)](https://yourportfolio.com)
-
-</div>
-
----
-
-## 💰 Support My Work
-
-<div align="center">
-
-If you like what I build, consider supporting me — it keeps the coffee flowing! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
 
 </div>
 
