@@ -20,7 +20,7 @@
 
   🚀 Currently Focused On :
 
-- 🤖 **AI/ML** — Exploring LLMs, prompt engineering & AI APIs
+- 🤖 **AI/ML** — Exploring LLMs & AI APIs
 - 🏗️ **System Design** — Learning scalable architecture patterns
 - 📦 **Open Source** — Contributing to community projects
 - 🔐 **Security** — Understanding web security & best practices
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-### 💬 Quote I Live By
+### 💬 Quote
 
 > *"Code. Learn. Build. Repeat."*
 
