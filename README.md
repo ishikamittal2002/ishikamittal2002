@@ -1,17 +1,12 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Hey%20There!%20I'm%20[YourName]%20👋&fontSize=40&fontColor=00ff88&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18&descColor=8b949e&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Hey%20There!%20I'm%20Ishika Mittal%20👋&fontSize=40&fontColor=00ff88&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18&descColor=8b949e&animation=twinkling" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Code.+Learn.+Build.+Repeat.;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+learning+something+new...)](https://git.io/typing-svg)
 
 <br/>
-
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?logo=github&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/yourusername)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername?logo=github&style=for-the-badge&color=00ff88&labelColor=0d1117)](https://github.com/yourusername)
 
 </div>
 
@@ -21,15 +16,14 @@
 
 ```typescript
 const developer = {
-  name:        "Your Name",
-  alias:       "yourusername",
+  name:        "Ishika Mittal",
   location:    "India 🇮🇳",
-  role:        "Full Stack Developer",
+  role:        "Developer",
   passion:     ["Building cool stuff", "Open Source", "Problem Solving"],
   education:   "B.Tech / BCA / Self-Taught (update yours!)",
-  currentMood: "Turning ☕ into code since [year]",
+  currentMood: "Turning ☕ into code",
 
-  askMeAbout:  ["Web Dev", "APIs", "DSA", "Cloud", "AI Tools"],
+  askMeAbout:  ["Java ", "APIs", "DSA", "Cloud", "AI Tools"],
   funFact:     "I debug with console.log() and I'm proud of it 😄",
 };
 ```
