@@ -65,7 +65,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ishika-mittal-084460324)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishikamittal306@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ishika_Mittal_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=About.me&logoColor=black)](https://yourportfolio.com)
 
 </div>
 
