@@ -18,16 +18,18 @@
 - 📫 Reach me at **ishikamittal306@gmail.com**
 - ⚡ Fun fact: **My code works and I have no idea why sometimes 😂**
 
-<br clear="right"/>
-
----
-
-## 🚀 Currently Focused On
+- ## 🚀 Currently Focused On
 
 - 🤖 **AI/ML** — Exploring LLMs, prompt engineering & AI APIs
 - 🏗️ **System Design** — Learning scalable architecture patterns
 - 📦 **Open Source** — Contributing to community projects
 - 🔐 **Security** — Understanding web security & best practices
+
+<br clear="right"/>
+
+---
+
+
 
 ---
 
