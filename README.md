@@ -74,11 +74,9 @@
 
 <br/>
 
-### 🙏 Thanks for visiting!
+###  Thanks for visiting!
 
-**⭐ Feel free to explore my repositories and connect with me.**
-
-*Every great developer was once a beginner. Keep building. Keep growing.*
+**Feel free to explore my repositories and connect with me.**
 
 <br/>
 
