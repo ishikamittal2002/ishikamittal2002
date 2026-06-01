@@ -14,16 +14,16 @@
 
 <img align="right" alt="Girl Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 👯 Open to collaborating on **Open Source Projects**
-- 📫 Reach me at **ishikamittal306@gmail.com**
-- ⚡ Fun fact: **My code works and I have no idea why sometimes 😂**
+-  Open to collaborating on **Open Source Projects**
+-  Reach me at **ishikamittal306@gmail.com**
+-  Fun fact: **My code works and I have no idea why sometimes 😂**
 
   🚀 Currently Focused On :
 
-- 🤖 **AI/ML** — Exploring LLMs & AI APIs
-- 🏗️ **System Design** — Learning scalable architecture patterns
-- 📦 **Open Source** — Contributing to community projects
-- 🔐 **Security** — Understanding web security & best practices
+-  **AI/ML** — Exploring LLMs & AI APIs
+-  **System Design** — Learning scalable architecture patterns
+-  **Open Source** — Contributing to community projects
+-  **Security** — Understanding web security & best practices
 
 <br clear="right"/>
 
@@ -31,7 +31,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -60,7 +60,7 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ishika-mittal-084460324)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishikamittal306@gmail.com)
@@ -71,10 +71,6 @@
 ---
 
 <div align="center">
-
-### 💬 Quote
-
-> *"Code. Learn. Build. Repeat."*
 
 <br/>
 
