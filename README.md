@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div>
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div>
 
