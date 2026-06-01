@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 <img align="right" alt="Girl Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -18,7 +18,7 @@
 -  Reach me at **ishikamittal306@gmail.com**
 -  Fun fact: **My code works and I have no idea why sometimes 😂**
 
-  🚀 Currently Focused On :
+   Currently Focused On :
 
 -  **AI/ML** — Exploring LLMs & AI APIs
 -  **System Design** — Learning scalable architecture patterns
@@ -45,7 +45,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
