@@ -121,31 +121,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-C7CEEA?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=C7CEEA">
-  <img src="https://img.shields.io/badge/C++-D8BFD8?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=D8BFD8">
-  <img src="https://img.shields.io/badge/Python-BFD7ED?style=for-the-badge&logo=python&logoColor=white&labelColor=BFD7ED">
-  <img src="https://img.shields.io/badge/JavaScript-F1CBFF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F1CBFF">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FFD6E8?style=for-the-badge&logo=html5&logoColor=white&labelColor=FFD6E8">
-  <img src="https://img.shields.io/badge/CSS3-CDE7F0?style=for-the-badge&logo=css3&logoColor=white&labelColor=CDE7F0">
-  <img src="https://img.shields.io/badge/React-D6EAF8?style=for-the-badge&logo=react&logoColor=white&labelColor=D6EAF8">
-  <img src="https://img.shields.io/badge/FastAPI-E0C3FC?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=E0C3FC">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-C1E1C1?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=C1E1C1">
-  <img src="https://img.shields.io/badge/PostgreSQL-B5D8EB?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=B5D8EB">
-  <img src="https://img.shields.io/badge/Git-E6C9E6?style=for-the-badge&logo=git&logoColor=white&labelColor=E6C9E6">
-  <img src="https://img.shields.io/badge/GitHub-DCC6E0?style=for-the-badge&logo=github&logoColor=white&labelColor=DCC6E0">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-BFD7ED?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=BFD7ED">
-  <img src="https://img.shields.io/badge/Docker-C7CEEA?style=for-the-badge&logo=docker&logoColor=white&labelColor=C7CEEA">
-  <img src="https://img.shields.io/badge/Linux-D8BFD8?style=for-the-badge&logo=linux&logoColor=white&labelColor=D8BFD8">
-  <img src="https://img.shields.io/badge/Figma-F1CBFF?style=for-the-badge&logo=figma&logoColor=white&labelColor=F1CBFF">
+<img src="https://img.shields.io/badge/Java-C7CEEA?style=flat-square&logo=openjdk&logoColor=white&labelColor=C7CEEA"> <img src="https://img.shields.io/badge/C++-D8BFD8?style=flat-square&logo=cplusplus&logoColor=white&labelColor=D8BFD8"> <img src="https://img.shields.io/badge/Python-BFD7ED?style=flat-square&logo=python&logoColor=white&labelColor=BFD7ED"> <img src="https://img.shields.io/badge/JavaScript-F1CBFF?style=flat-square&logo=javascript&logoColor=white&labelColor=F1CBFF"> <img src="https://img.shields.io/badge/SQL-FFD6E8?style=flat-square&logo=mysql&logoColor=white&labelColor=FFD6E8"> <img src="https://img.shields.io/badge/HTML5-CDE7F0?style=flat-square&logo=html5&logoColor=white&labelColor=CDE7F0"> <img src="https://img.shields.io/badge/CSS3-D6EAF8?style=flat-square&logo=css3&logoColor=white&labelColor=D6EAF8"> <img src="https://img.shields.io/badge/React-E0C3FC?style=flat-square&logo=react&logoColor=white&labelColor=E0C3FC"> <img src="https://img.shields.io/badge/Node.js-C1E1C1?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=C1E1C1"> <img src="https://img.shields.io/badge/FastAPI-B5D8EB?style=flat-square&logo=fastapi&logoColor=white&labelColor=B5D8EB"> <img src="https://img.shields.io/badge/MongoDB-E6C9E6?style=flat-square&logo=mongodb&logoColor=white&labelColor=E6C9E6"> <img src="https://img.shields.io/badge/PostgreSQL-DCC6E0?style=flat-square&logo=postgresql&logoColor=white&labelColor=DCC6E0"> <img src="https://img.shields.io/badge/MySQL-BFD7ED?style=flat-square&logo=mysql&logoColor=white&labelColor=BFD7ED"> <img src="https://img.shields.io/badge/SQLite-C7CEEA?style=flat-square&logo=sqlite&logoColor=white&labelColor=C7CEEA"> <img src="https://img.shields.io/badge/Redis-D8BFD8?style=flat-square&logo=redis&logoColor=white&labelColor=D8BFD8"> <img src="https://img.shields.io/badge/TensorFlow-F1CBFF?style=flat-square&logo=tensorflow&logoColor=white&labelColor=F1CBFF"> <img src="https://img.shields.io/badge/PyTorch-FFD6E8?style=flat-square&logo=pytorch&logoColor=white&labelColor=FFD6E8"> <img src="https://img.shields.io/badge/LangChain-CDE7F0?style=flat-square&logo=chainlink&logoColor=white&labelColor=CDE7F0"> <img src="https://img.shields.io/badge/NumPy-D6EAF8?style=flat-square&logo=numpy&logoColor=white&labelColor=D6EAF8"> <img src="https://img.shields.io/badge/Pandas-E0C3FC?style=flat-square&logo=pandas&logoColor=white&labelColor=E0C3FC"> <img src="https://img.shields.io/badge/AWS-C1E1C1?style=flat-square&logo=amazonaws&logoColor=white&labelColor=C1E1C1"> <img src="https://img.shields.io/badge/Docker-B5D8EB?style=flat-square&logo=docker&logoColor=white&labelColor=B5D8EB"> <img src="https://img.shields.io/badge/Git-E6C9E6?style=flat-square&logo=git&logoColor=white&labelColor=E6C9E6"> <img src="https://img.shields.io/badge/GitHub-DCC6E0?style=flat-square&logo=github&logoColor=white&labelColor=DCC6E0"> <img src="https://img.shields.io/badge/Postman-BFD7ED?style=flat-square&logo=postman&logoColor=white&labelColor=BFD7ED">
 </p>
 
 ---
@@ -178,3 +154,4 @@
 </p>
 
 <p align="center"><i>✨ Thanks for stopping by! ✨</i></p>
+
