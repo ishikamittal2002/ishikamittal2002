@@ -152,9 +152,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7CEEA,100:F1CBFF&height=120&section=footer" />
-</p>
-
-<p align="center"><i>✨ Thanks for stopping by! ✨</i></p>
-
