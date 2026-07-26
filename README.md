@@ -94,17 +94,12 @@
 
 
 
-<h1 align="center">Hi there, I'm Ishika 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI)+%40+VIT+Bhopal;Open+Source+Contributor+%40+GSSoC;Hackathon+Enthusiast+%F0%9F%92%9C;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7CEEA,50:D8BFD8,100:F1CBFF&height=200&section=header&text=Hi,%20I'm%20Ishika&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(AI)%20%40%20VIT%20Bhopal&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-purple?style=for-the-badge&color=D8BFD8" width="60">
-  <img src="https://img.shields.io/badge/-blue?style=for-the-badge&color=BFD7ED" width="60">
-  <img src="https://img.shields.io/badge/-lavender?style=for-the-badge&color=C7CEEA" width="60">
-  <img src="https://img.shields.io/badge/-pink?style=for-the-badge&color=F1CBFF" width="60">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=600&lines=Open+Source+Contributor+%40+GSSoC;Hackathon+Enthusiast+%F0%9F%92%9C;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ---
@@ -146,6 +141,14 @@
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D8BFD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D8BFD8"></a>
   <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-F1CBFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=F1CBFF"></a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7CEEA,100:F1CBFF&height=120&section=footer" />
+</p>
+
+<p align="center"><i>✨ Thanks for stopping by! ✨</i></p>
 
 ---
 
