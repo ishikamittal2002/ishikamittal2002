@@ -33,13 +33,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_REAL_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=B39DDB&text_color=9B8AC4&bg_color=00000000" width="55%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikamittal2002&layout=compact&theme=transparent&hide_border=true&title_color=B39DDB&text_color=9B8AC4&bg_color=00000000" width="55%" alt="Top Languages" />
 </p>
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/ishika-mittal-084460324"><img src="https://img.shields.io/badge/LinkedIn-BFD7ED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=BFD7ED"></a>
+  <a href=www.linkedin.com/in/ishika-mittal-084460324><img src="https://img.shields.io/badge/LinkedIn-BFD7ED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=BFD7ED"></a>
   <a href="mailto:ishikamittal306@gmail.com"><img src="https://img.shields.io/badge/Email-D8BFD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D8BFD8"></a>
   <!-- <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-F1CBFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=F1CBFF"></a> -->
 </p>
