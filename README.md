@@ -124,15 +124,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=B39DDB&icon_color=C7CEEA&text_color=9B8AC4&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=C7CEEA&fire=D8BFD8&currStreakLabel=B39DDB&background=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishikamittal2002&show_icons=true&theme=transparent&hide_border=true&title_color=B39DDB&icon_color=C7CEEA&text_color=9B8AC4&bg_color=00000000" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ishikamittal2002&theme=transparent&hide_border=true&ring=C7CEEA&fire=D8BFD8&currStreakLabel=B39DDB&currStreakNum=B39DDB&sideNums=B39DDB&sideLabels=9B8AC4&dates=9B8AC4&background=00000000" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=B39DDB&text_color=9B8AC4&bg_color=00000000" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_REAL_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=B39DDB&text_color=9B8AC4&bg_color=00000000" width="55%" alt="Top Languages" />
 </p>
-
----
 
 ### 🌐 Connect with Me
 
