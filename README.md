@@ -17,6 +17,13 @@
 
 ---
 
+## 🔭 Currently Working On
+
+- Building scalable backend applications.
+- Exploring distributed systems and Redis.
+- Practicing Data Structures & Algorithms in Java.
+- Exploring AI-powered applications.
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -28,23 +35,26 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishikamittal2002&show_icons=true&theme=transparent&hide_border=true&title_color=B39DDB&icon_color=C7CEEA&text_color=9B8AC4&bg_color=00000000" width="48%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishikamittal2002&theme=tokyonight" width="48%" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=ishikamittal2002&theme=transparent&hide_border=true&ring=C7CEEA&fire=D8BFD8&currStreakLabel=B39DDB&currStreakNum=B39DDB&sideNums=B39DDB&sideLabels=9B8AC4&dates=9B8AC4&background=00000000" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikamittal2002&layout=compact&theme=transparent&hide_border=true&title_color=B39DDB&text_color=9B8AC4&bg_color=00000000" width="55%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishikamittal2002&theme=tokyonight" width="48%" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishikamittal2002&theme=tokyonight" width="48%" alt="Repos per Language" />
 </p>
+
+---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href=www.linkedin.com/in/ishika-mittal-084460324><img src="https://img.shields.io/badge/LinkedIn-BFD7ED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=BFD7ED"></a>
-  <a href="mailto:ishikamittal306@gmail.com"><img src="https://img.shields.io/badge/Email-D8BFD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D8BFD8"></a>
-  <!-- <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-F1CBFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=F1CBFF"></a> -->
+  <a href="https://www.linkedin.com/in/ishika-mittal-084460324"><img src="https://img.shields.io/badge/LinkedIn-BFD7ED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=BFD7ED" alt="LinkedIn"></a>
+  <a href="mailto:ishikamittal306@gmail.com"><img src="https://img.shields.io/badge/Email-D8BFD8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D8BFD8" alt="Email"></a>
+  <!-- <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-F1CBFF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=F1CBFF" alt="Portfolio"></a> -->
 </p>
 
----
+<p align="center">📧 ishikamittal306@gmail.com</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7CEEA,100:F1CBFF&height=120&section=footer" />
