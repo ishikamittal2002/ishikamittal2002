@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=600&lines=Open+Source+Contributor+%40+GSSoC;Hackathon+Enthusiast+%F0%9F%92%9C;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=B39DDB&center=true&vCenter=true&width=600&lines=Open+Source+Contributor+%40+GSSoC;Building+project+%F0%9F%92%9C;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ---
@@ -108,7 +108,7 @@
 
 - 🎓 B.Tech CSE (AI) student at **VIT Bhopal** (2024 – 2028)
 - 🌱 Contributing to open source through **GSSoC** (GirlScript Summer of Code)
-- 🏆 Enjoy building projects during hackathons
+- 🏆 Enjoy building projects
 - 💜 I like clean, aesthetic, and thoughtfully designed things — code included
 
 ---
